@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vvvlntno.
 - 👀 I’m interested in programming and mathematics.
-- 🌱 I’m currently learning python and java.
-- 💞️ I’m looking to collaborate on nothing.
+- 🌱 I’m currently learning python and javascript.
 - 📫 You can direct message me.
 
