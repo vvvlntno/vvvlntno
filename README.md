@@ -1,6 +1,5 @@
 ## Hi 👋, my name is Valentino!
-👨🏽‍🎓 Studied [Computer Science](https://www.ravensburg.dhbw.de/studienangebot/duale-studiengaenge-bachelor/duales-studium-informatik) @ [DHBW Ravensburg Campus Friedrichshafen](https://www.ravensburg.dhbw.de/startseite) with [ZF Friedrichshafen AG](https://www.zf.com/mobile/de/homepage/homepage.html) <br/>
-🔭 Working on a To-Do App to publish to the Google Play Store <br/>
+👨🏽‍🎓 Currently studying [Computer Science](https://www.uni-due.de/bmai/msc-ueberblick.php) @ [Univesity of Duisburg-Essen](https://www.uni-due.de/de/index.php) <br/>
 🌱 Expaning my knowledge into various directions (Web-/Mobile-Development, Data Science, Game Development) <br/>
 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/valentino-pecchinenda/) if you need anything <br/>
 ⚡ Optimizing life through automation <br/>
