@@ -1,5 +1,5 @@
 ## Hi 👋, my name is Valentino!
-👨🏽‍🎓 Currently studying [Computer Science](https://www.uni-due.de/bmai/msc-ueberblick.php) @ [Univesity of Duisburg-Essen](https://www.uni-due.de/de/index.php) <br/>
+👨🏽‍🎓 Currently studying [Computer Science](https://www.uni-due.de/bmai/msc-ueberblick.php) @ [University of Duisburg-Essen](https://www.uni-due.de/de/index.php) <br/>
 🌱 Expaning my knowledge into various directions (Web-/Mobile-Development, Data Science, Game Development) <br/>
 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/valentino-pecchinenda/) if you need anything <br/>
 ⚡ Optimizing life through automation <br/>
