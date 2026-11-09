@@ -59,6 +59,8 @@
 <div align=center>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvvlntno&theme=github_dark)
+
+<i>Most of my repositories are private, since I'm still working on that</i>
   
 </div>
 
