@@ -19,7 +19,7 @@
 </h3>
     Languages
 </h3>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5 Badge">
 
 
 ## 💻 Tech Stack (expandable)
