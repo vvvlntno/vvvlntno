@@ -1,12 +1,25 @@
 
 <h3 align="center">
-    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Valentino!
+    Welcomeee, my name is Valentino! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 
 👨🏽‍🎓 Currently studying [Computer Science](https://www.uni-due.de/bmai/msc-ueberblick.php) @ [University of Duisburg-Essen](https://www.uni-due.de/de/index.php) <br/>
 🌱 Expaning my knowledge into various directions (Web-/Mobile-Development, Data Science, Game Development) <br/>
-📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/valentino-pecchinenda/) if you need anything <br/>
-⚡ Optimizing life through automation <br/>
+
+---
+
+<h2 align="center">
+    Tech Stack
+</h2>
+
+</h3>
+    Languages
+</h3>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 
 
 ## 💻 Tech Stack (expandable)
@@ -15,7 +28,6 @@
     <details open>
         <summary><h4>🖥️ Frontend</h4></summary>
         <p>
-            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5 Badge"/>
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3 Badge">
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
             <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript Badge">
