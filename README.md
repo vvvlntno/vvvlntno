@@ -8,7 +8,7 @@
 </p>
 
 👨🏽‍🎓 Currently studying [Computer Science](https://www.uni-due.de/bmai/msc-ueberblick.php) @ [University of Duisburg-Essen](https://www.uni-due.de/de/index.php) <br/>
-🌱 Expaning my knowledge into various directions (Web-/Mobile-Development, Data Science, Game Development) <br/>
+🌱 Expanding my knowledge into various directions (Web-/Mobile-Development, Data Science, Game Development) <br/>
 
 <h2 align="center">
     Tech Stack
