@@ -70,6 +70,14 @@
     <a href="https://www.linkedin.com/in/valentino-pecchinenda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
+<h2 align="center">
+    Some cats :)
+</h2>
+
+<div align="center">
+    <img src="https://cdn.7tv.app/emote/01HYSZKHJG000CRN9XBXX6D1E5/1x.avif" width="32" height="32"/>
+</div>
+
 
 ---
 <a href="https://komarev.com/ghpvc/?username=vvvlntno&style=for-the-badge">
