@@ -10,8 +10,6 @@
 👨🏽‍🎓 Currently studying [Computer Science](https://www.uni-due.de/bmai/msc-ueberblick.php) @ [University of Duisburg-Essen](https://www.uni-due.de/de/index.php) <br/>
 🌱 Expaning my knowledge into various directions (Web-/Mobile-Development, Data Science, Game Development) <br/>
 
----
-
 <h2 align="center">
     Tech Stack
 </h2>
@@ -54,7 +52,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Github Profile Summary Card
+<h2 align="center">
+    Github Profile Summary Card
+</h2>
 
 <div align=center>
   
@@ -62,6 +62,16 @@
   
 </div>
 
+<h2 align="center">
+    Contact Me
+</h2>
+
+<div align=center>
+    <a href="https://www.linkedin.com/in/valentino-pecchinenda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vvvlntno&icon=5&color=0)](https://visitcount.itsvg.in)
+<a href="https://komarev.com/ghpvc/?username=vvvlntno&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=vvvlntno&style=for-the-badge">
+</a>
