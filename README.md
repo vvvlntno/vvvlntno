@@ -85,6 +85,7 @@
     <img src="https://cdn.7tv.app/emote/01GCESAKV00008SW4QHRMNB5BE/1x.avif" width="32" height="32"/>
     <img src="https://cdn.7tv.app/emote/01H32GC808000B7ZDP6YFHVSYD/1x.avif" width="32" height="32"/>
     <img src="https://cdn.7tv.app/emote/01FXFCX13R000FG2VJF7249F4S/1x.avif" width="32" height="32"/>
+    <img src="https://cdn.7tv.app/emote/01GA0HWQ7R0001VT2F11KM5EZM/1x.avif" width="32" height="32"/>
 </div>
 
 
