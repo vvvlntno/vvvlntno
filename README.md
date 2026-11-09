@@ -76,10 +76,19 @@
 
 <div align="center">
     <img src="https://cdn.7tv.app/emote/01HYSZKHJG000CRN9XBXX6D1E5/1x.avif" width="32" height="32"/>
+    <img src="https://cdn.7tv.app/emote/01FEM1R99G000AEZ0QNPT4F7C1/1x.avif" width="32" height="32"/>
+    <img src="https://cdn.7tv.app/emote/01J7BN1AYG000AN68SA89T6XZW/1x.avif" width="32" height="32"/>
+    <img src="https://cdn.7tv.app/emote/01JDZR6N8RND96K10FDC9MJV9P/1x.avif" width="32" height="32"/>
+    <img src="https://cdn.7tv.app/emote/01J6W4ZPWR0003R88FPG3R02VW/1x.avif" width="32" height="32"/>
+    <img src="https://cdn.7tv.app/emote/01GCESAKV00008SW4QHRMNB5BE/1x.avif" width="32" height="32"/>
+    <img src="https://cdn.7tv.app/emote/01H32GC808000B7ZDP6YFHVSYD/1x.avif" width="32" height="32"/>
+    <img src="https://cdn.7tv.app/emote/01FXFCX13R000FG2VJF7249F4S/1x.avif" width="32" height="32"/>
 </div>
 
 
 ---
-<a href="https://komarev.com/ghpvc/?username=vvvlntno&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=vvvlntno&style=for-the-badge">
-</a>
+<div align="center">
+    <a href="https://komarev.com/ghpvc/?username=vvvlntno&style=for-the-badge">
+        <img src="https://komarev.com/ghpvc/?username=vvvlntno&style=for-the-badge">
+    </a>
+</div>
