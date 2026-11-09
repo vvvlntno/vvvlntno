@@ -54,8 +54,14 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=vvvlntno&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+## Github Profile Summary Card
+
+<div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvvlntno&theme=github_dark)
+  
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vvvlntno&icon=5&color=0)](https://visitcount.itsvg.in)
