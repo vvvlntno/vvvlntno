@@ -1,4 +1,8 @@
-## Hi 👋, my name is Valentino!
+
+<h3 align="center">
+    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Valentino!
+</h3>
+
 👨🏽‍🎓 Currently studying [Computer Science](https://www.uni-due.de/bmai/msc-ueberblick.php) @ [University of Duisburg-Essen](https://www.uni-due.de/de/index.php) <br/>
 🌱 Expaning my knowledge into various directions (Web-/Mobile-Development, Data Science, Game Development) <br/>
 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/valentino-pecchinenda/) if you need anything <br/>
